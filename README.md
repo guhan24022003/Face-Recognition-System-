@@ -25,4 +25,7 @@ Supabase
 Styling
 Tailwind CSS
 
-# Developed By Guhan
+# Developed By
+Guhan Dakshinamoorthy
+Contact: guhanvikas@gmail.com 
+
