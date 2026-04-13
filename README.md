@@ -28,5 +28,5 @@ Tailwind CSS
 # Developed By
 Guhan Dakshinamoorthy
 
-Contact-guhanvikas@gmail.com 
+Contact: guhanvikas@gmail.com
 
